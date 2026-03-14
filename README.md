@@ -1,7 +1,8 @@
-# https://new-elec-3120-pacer-megaplus-1432026--ethanethan4.replit.app/
-# the website will be expired till : 4/13/2026 :(
+#### https://new-elec-3120-pacer-megaplus-1432026--ethanethan4.replit.app/
+#### the website will be expired till : 4/13/2026 :(
  
-### i made a reflection about this project as well
+#### i made a reflection about this project as well
+#### you can go to reflection.md to have a look
 # ELEC3120 Network Learning Hub
 
 An AI-powered Computer Networks tutoring web application for university students. Ask questions, upload network diagrams for analysis, and submit PDF documents — all answered by a large language model tuned for networking education.
